@@ -1,5 +1,5 @@
 # Rocky Password Manager CLI
-**Rocky Password Manager** is a command-line interface for **password managment**. Actually, it's an account manager given that not only can **store password** but also store **usernames, and emails**. Also, this program has an **authentication system** and a **encrypted database** to protect the sensible information it contains
+**Rocky Password Manager** is a command-line interface for **password managment**. Actually, it's an account manager given that not only can **store passwords** but also store **usernames, and emails**. Also, this program has an **authentication system** and a **encrypted database** to protect the sensible information it contains
 
 Written in<br>
 <img width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
