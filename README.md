@@ -31,26 +31,26 @@ Authentication system (register, login, logout and status)
 <br>
 
 <a name="commands_auth_1"></a>
-**auth register**
+**auth register**<br>
 Create an account to use Rocky.
 Password is optional. If it's not provided, you can login without type a password
 
     $ rocky auth register [<password>]
 
-   <a name="commands_auth_2"></a>
-  **auth login**
+<a name="commands_auth_2"></a>
+  **auth login**<br>
 Authenticate with the previously created account
 
     $ rocky auth login [<password>]
 
-  <a name="commands_auth_3"></a>
-**auth logout**
+<a name="commands_auth_3"></a>
+**auth logout**<br>
 Finish the session
 
     $ rocky auth logout
 
 <a name="commands_auth_4"></a>
-   **auth status**
+   **auth status**<br>
 Check the current auth status.
 Status can be: Logged In, Logged out, No registered
 
@@ -157,11 +157,11 @@ The file looks like this:
 		"session": "./.session",
 		"database": "./database.db"
 	}
-**password**
+**password**<br>
 File where your *encrypted* password will be stored
 
-**session**
+**session**<br>
 File where your session will be stored
 
-**database**
+**database**<br>
 Path and filename of the *encrypted* database
