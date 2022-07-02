@@ -18,7 +18,7 @@ Written in<br>
 	- [get](#commands_get)
 	- [details](#commands_details)
 	- [copy](#commands_copy)
-2. [Installation](#install)
+2. [Installation](#installation)
 3. [Configuration](#config)
 
 <a name="commands"></a>
